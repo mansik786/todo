@@ -20,6 +20,8 @@ while(begin !== 'quit' && begin !== 'q'){ // or will disrupt > thus && > for any
             //thus, using push 
             notes.push(byyou);
             //feedback
+            // & LIST FEATURE IN APP
+//we need index also > to use delete  feature 
             console.log(`${byyou} added to notes`);
             //FUNCTIONING IN BROWSER > INPUT>
             //NEW 
@@ -80,6 +82,6 @@ else {
 }
 console.log("quiting app right now")
 
-// & LIST FEATURE IN APP
-//we need index also > to use delete  feature 
+//TO DO APP > GENERATE NEW/ LISTING ALL WITH PUSH / DELETE USING INDEX AND SPLICE ..checking inputs and all of basic and advance stuff is covered HERE
+// BE CONNECTED TO SEE MORE
 
